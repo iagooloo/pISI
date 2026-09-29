@@ -268,7 +268,10 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
-
+| Usuario activo mensual | Indicador de éxito del negocio: se espera un mínimo de 500 en los tres primeros meses tras el lanzamiento. No equivale a los usuarios conectados a la vez ni fija la capacidad que debe soportar la plataforma. Las fuentes no precisan qué acciones hacen que un usuario se considere «activo». | VA 1.3; AT 1 |
+| Usuario conectado simultáneamente | Persona que está usando la plataforma en un mismo momento. La primera versión debe admitir al menos 100, y es la carga con la que se realizan las pruebas de rendimiento. No debe confundirse con los usuarios activos mensuales. | AT 1, 2.1.1, 2.1.2 |
+| Funciones principales | Funciones de la plataforma cuyo uso determina si esta se considera disponible y si se ha recuperado tras un incidente. Las fuentes no enumeran cuáles son, y queda como decisión pendiente P-07. | AT 2.1.4, 2.2.1 |
+| Incidente grave | Fallo que activa el plazo máximo de recuperación de cuatro horas desde su declaración y el límite de pérdida de información de 24 horas. Las fuentes no definen qué lo hace «grave» ni quién lo declara, y queda como decisión pendiente P-07. | AT 2.2.1 |
 ## 10. Modelos de análisis
 
 Los modelos hacen visible la interpretación de los requisitos y deben mantener
